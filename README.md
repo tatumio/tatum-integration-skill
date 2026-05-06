@@ -58,13 +58,13 @@ Then just tell it what you need:
 
 ---
 
-## 📡 API Coverage: 126 Endpoints
+## 📡 API Coverage
 
-| Category | Endpoints | Examples |
-|:---------|:---------:|:---------|
-| **V4 Data API** | 75 | Wallets, transactions, tokens, NFTs, DeFi, staking, exchange rates |
-| **V4 Notifications** | 16 | Webhook subscriptions, templates, filtering, HMAC verification |
-| **V3 Chain-Specific** | 35 | TRON (10) · XLM (7) · XRP (8) · ADA (6) · Algorand (4) |
+| Category | Examples |
+|:---------|:---------|
+| **V4 Data API** | Wallets, transactions, tokens, NFTs, DeFi, staking, exchange rates |
+| **V4 Notifications** | Webhook subscriptions, templates, filtering, HMAC verification |
+| **V3 Chain-Specific** | TRON · XLM · XRP · ADA · Algorand |
 
 ### 🌐 Supported Networks
 
@@ -79,7 +79,7 @@ Then just tell it what you need:
 | [📘 Skill.md](Skill.md) | Complete integration workflow |
 | [📋 API Parameters](reference/api-parameters.md) | Request parameters for all endpoints |
 | [📤 API Responses](reference/api-responses.md) | Response schemas for all endpoints |
-| [📖 Data API Reference](reference/data-api-complete.md) | Full API reference (126 operations) |
+| [📖 Data API Reference](reference/data-api-complete.md) | Full API reference |
 | [💡 Framework Examples](reference/frameworks/) | Express, FastAPI, Spring Boot, Django, Laravel |
 
 ---
