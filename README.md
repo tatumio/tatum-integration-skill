@@ -37,7 +37,7 @@ Then just tell it what you need:
 
 | | Feature | Description |
 |---|---------|-------------|
-| 🔍 | **Auto-Detection** | Detects your framework — Express, FastAPI, Spring Boot, Django, Laravel, and more |
+| 🔍 | **Auto-Detection** | Detects your framework: Express, FastAPI, Spring Boot, Django, Laravel, and more |
 | 🏗️ | **Code Generation** | Creates service files, controllers, and routes following your project conventions |
 | 📦 | **Dependency Management** | Installs packages automatically (`npm install`, `pip install`, etc.) |
 | 🔐 | **Environment Config** | Configures `.env` with your Tatum API key |
@@ -58,7 +58,7 @@ Then just tell it what you need:
 
 ---
 
-## 📡 API Coverage — 126 Endpoints
+## 📡 API Coverage: 126 Endpoints
 
 | Category | Endpoints | Examples |
 |:---------|:---------:|:---------|
@@ -86,8 +86,8 @@ Then just tell it what you need:
 
 ## 🤝 Support
 
-- 🐛 [GitHub Issues](https://github.com/tatumio/tatum-integration-skill/issues) — Report bugs or request features
-- 📖 [Tatum Docs](https://docs.tatum.io) — Official API documentation
+- 🐛 [GitHub Issues](https://github.com/tatumio/tatum-integration-skill/issues) : Report bugs or request features
+- 📖 [Tatum Docs](https://docs.tatum.io) : Official API documentation
 
 ---
 
